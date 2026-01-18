@@ -142,8 +142,6 @@ nav {
 
   ul {
     gap: 40px;
-    li {
-    }
     button {
       background: white;
       color: black;
@@ -151,10 +149,6 @@ nav {
       width: 129px;
       height: 42px;
     }
-  }
-  .nav-middle {
-  }
-  .nav-bottom {
   }
 }
 
@@ -567,8 +561,6 @@ nav {
       }
     }
 
-    span:first-of-type {
-    }
 
     input {
       display: none;
@@ -679,8 +671,6 @@ nav {
         }
       }
 
-      &:first-of-type {
-      }
 
       &:nth-child(2) {
         background: #a8ff35;
@@ -690,8 +680,6 @@ nav {
         }
       }
 
-      &:last-of-type {
-      }
     }
   }
 }
